@@ -1,1 +1,1 @@
-# enigma2-skin-aeonfhd
+# enigma2-plugin-skins-aeonfhd
